@@ -126,3 +126,15 @@ a {
 .noborder {
   border: none;
 }
+button {
+  display: block;
+  margin: 10px auto;
+  color: white;
+  background-color: #407d61;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 5px;
+  font-size: 14px;
+  font-weight: bold;
+  box-shadow: 3px 3px 5px #888888;
+}
